@@ -6,7 +6,8 @@ __pycache__/
 .idea/*
 # C extensions
 *.so
-
+1025_1853_bundle_archive/*
+*/40/*
 .DS_Store
 # Distribution / packaging
 .Python
