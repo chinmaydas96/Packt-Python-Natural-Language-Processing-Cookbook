@@ -1,3 +1,5 @@
+bert_twitter_model
+training.1600000.processed.noemoticon.csv
 phrases.model
 # Byte-compiled / optimized / DLL files
 __pycache__/
